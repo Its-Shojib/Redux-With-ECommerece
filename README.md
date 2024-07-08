@@ -23,17 +23,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Its-Shojib/Todo-App-with-Redux
    ```
 2. Navigate to the project directory:
    ```sh
-   cd todo-app
+   cd Todo-App-with-Redux
    ```
 3. Install the dependencies:
    ```sh
